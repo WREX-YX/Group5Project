@@ -1,3 +1,4 @@
+isOkay
 if input[][] is empty
   return true
 if row doesnt have number
