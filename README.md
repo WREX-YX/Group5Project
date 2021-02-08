@@ -4,4 +4,4 @@ A sudoku game made using arrays where an initial array and a final array are set
 
 As of now, we are able to get user input for each cell, and have a check to make sure the uuser doesn't over lay values. In the future, we will add functionality to check the individual/groups of rows and columns to make sure no values are respeated
 #### Documentation()
-![TestGraphic](https://github.com/WREX-YX/Group5Project/blob/main/sudoku/suduko1.png)
+![TestGraphic](https://github.com/WREX-YX/Group5Project/blob/main/sudoku%20uml1.png)
