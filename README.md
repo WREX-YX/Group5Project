@@ -8,7 +8,9 @@ As of now, we are able to get user input for each cell, and have a check to make
 Currently, integers are used as comparators to the answer and question arrays, which are preset for now, in the future, random gameboard generation will be implemented with respect to difficulty
 #### Current UML
 Integers set for N0 and N1 comparison, along with insertion values. Integer Arrays set up for game board production and comparison check to answer array. Display Array set for initial game board, and an updating array to display user input
+
 ![TestGraphic](https://github.com/WREX-YX/Group5Project/blob/main/sudoku%20uml1.png)
 #### Conceptual UML
 Custom methods and values to set cells and put in place with the actual array, with method setting and colors for errors. Game method added to tie together functionality and game control to check for positioning and errors.
+
 ![TestGraphic](https://github.com/WREX-YX/Group5Project/blob/main/SudokuUML.png)
