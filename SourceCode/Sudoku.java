@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class Main {
+class Sudoku{
   public static void main(String[] args) {
     //Array for Finding
     int[][] visArr = {
