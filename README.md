@@ -14,3 +14,9 @@ Integers set for N0 and N1 comparison, along with insertion values. Integer Arra
 Custom methods and values to set cells and put in place with the actual array, with method setting and colors for errors. Game method added to tie together functionality and game control to check for positioning and errors.
 
 ![TestGraphic](https://github.com/WREX-YX/Group5Project/blob/main/SudokuUML.png)
+
+#### Credidation
+Jonathan Ma-Design and UML/Technical Docs/Coding
+Katherine Smirnov-Class Orginization/Coding
+Elijah Hansen-Conceptual Data/Research/Lead Coding
+Samuel Nelson-Class Design/Coding
