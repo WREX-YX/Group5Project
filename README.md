@@ -15,8 +15,8 @@ Custom methods and values to set cells and put in place with the actual array, w
 
 ![TestGraphic](https://github.com/WREX-YX/Group5Project/blob/main/SudokuUML.png)
 
-#### Credidation
-# Jonathan Ma-Design and UML/Technical Docs/Coding
-# Katherine Smirnov-Class Orginization/Coding
-# Elijah Hansen-Conceptual Data/Research/Lead Coding
-# Samuel Nelson-Class Design/Coding
+## Credidation
+#### Jonathan Ma-Design and UML/Technical Docs/Coding
+#### Katherine Smirnov-Class Orginization/Coding
+#### Elijah Hansen-Conceptual Data/Research/Lead Coding
+#### Samuel Nelson-Class Design/Coding
